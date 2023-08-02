@@ -1,0 +1,15 @@
+.navbar-dark .navbar-toggler {
+    border-color: rgb(255, 255, 255);
+  }
+  
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  }
+
+  .nav-link-highlight:hover,
+  .nav-link-highlight:focus {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: transparent;
+  }

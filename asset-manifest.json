@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RodrigoRoL.github.io/Myreactportfolio/static/css/main.91ffdc79.css",
+    "main.js": "/RodrigoRoL.github.io/Myreactportfolio/static/js/main.8fe18a3a.js",
+    "static/media/text.png": "/RodrigoRoL.github.io/Myreactportfolio/static/media/text.bf35391181884879fccf.png",
+    "static/media/TuneSurf1.png": "/RodrigoRoL.github.io/Myreactportfolio/static/media/TuneSurf1.15c9dc31cdda878a4ad9.png",
+    "static/media/techblog.jpeg": "/RodrigoRoL.github.io/Myreactportfolio/static/media/techblog.0bc700a8b78aaf895820.jpeg",
+    "static/media/Copy of Rodrigo Roldan resumee.pdf": "/RodrigoRoL.github.io/Myreactportfolio/static/media/Copy of Rodrigo Roldan resumee.3ddebb1a0375986a0230.pdf",
+    "static/media/me.png": "/RodrigoRoL.github.io/Myreactportfolio/static/media/me.89f254df0aadc88f6a82.png",
+    "static/media/logIn.png": "/RodrigoRoL.github.io/Myreactportfolio/static/media/logIn.98e176d85da8de36af82.png",
+    "static/media/calendar.png": "/RodrigoRoL.github.io/Myreactportfolio/static/media/calendar.c9e6e526548c7573524e.png",
+    "index.html": "/RodrigoRoL.github.io/Myreactportfolio/index.html",
+    "main.91ffdc79.css.map": "/RodrigoRoL.github.io/Myreactportfolio/static/css/main.91ffdc79.css.map",
+    "main.8fe18a3a.js.map": "/RodrigoRoL.github.io/Myreactportfolio/static/js/main.8fe18a3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ffdc79.css",
+    "static/js/main.8fe18a3a.js"
+  ]
+}
